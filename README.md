@@ -1,2 +1,2 @@
 # gooey-loader
-Demo : [CSS + SVG loader](https://adityaanandmc.github.io/gooey-loader/)
+Demo : [CSS + SVG loader](https://thelostone-mc.github.io/gooey-loader/)
